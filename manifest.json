@@ -1,0 +1,10 @@
+{
+  "name": "lowfier",
+  "id": "1108299099460471281",
+  "api": "1.0.0",
+  "main": "code.js",
+  "editorType": [
+    "figma"
+  ],
+  "ui": "ui.html"
+}
